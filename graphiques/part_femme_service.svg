@@ -1,0 +1,166 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="600"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="display: block;" class="nvd3-svg" contentStyleType="text/css"
+     height="400" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.nvd3 text { font: 400 12px Arial; }
+.nvd3 .nv-legend .nv-series { cursor: pointer; }
+.nvd3.nv-pie path { stroke-opacity: 0; transition: fill-opacity 250ms linear 0s, stroke-width 250ms linear 0s, stroke-opacity 250ms linear 0s; }
+.nvd3.nv-pie path { stroke: rgb(255, 255, 255); stroke-width: 1px; stroke-opacity: 1; }
+.nvd3.nv-pie .nv-label { pointer-events: none; }
+.nvd3.nv-pie .nv-label rect { fill-opacity: 0; stroke-opacity: 0; }</style><style type="text/css"
+           xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }
+.knime-legend-label, text.knime-legend-label { color: black; fill: black; font-size: 12px; font-weight: normal; }</style><text x="20"
+          y="30" id="title" class="knime-title">
+        Part des femmes par service
+    </text>
+    <g class="nvd3 nv-wrap nv-pieChart" transform="translate(20,60)">
+        <g>
+            <g class="nv-pieWrap nvd3-svg">
+                <g class="nvd3 nv-wrap nv-pie nv-chart-9365"
+                   transform="translate(0,0)">
+                    <g>
+                        <g class="nv-pie" transform="translate(290,160)">
+                            <g class="nv-slice" fill="#1f77b4" stroke="#1f77b4">
+                                <path d="M7.83773951454306e-15,-128A128,128 0 0,1 127.18224774656107,-14.445617263805664L55.64223338912047,-6.319957552914978A56,56 0 0,0 3.429011037612589e-15,-56Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#ff7f0e" stroke="#ff7f0e">
+                                <path d="M127.18224774656107,-14.445617263805664A128,128 0 0,1 58.826222159550504,113.68146544813366L25.736472194803344,49.73564113355848A56,56 0 0,0 55.64223338912047,-6.319957552914978Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#2ca02c" stroke="#2ca02c">
+                                <path d="M58.826222159550504,113.68146544813366A128,128 0 0,1 -109.76341199278747,65.84826032403285L-48.021492746844515,28.808613891764374A56,56 0 0,0 25.736472194803344,49.73564113355848Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#d62728" stroke="#d62728">
+                                <path d="M-109.76341199278747,65.84826032403285A128,128 0 0,1 -125.09031981672877,-27.13691007002298L-54.727014919818835,-11.872398155635054A56,56 0 0,0 -48.021492746844515,28.808613891764374Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#9467bd" stroke="#9467bd">
+                                <path d="M-125.09031981672877,-27.13691007002298A128,128 0 0,1 -119.59410463444632,-45.620720475296125L-52.322420777570265,-19.959065207942054A56,56 0 0,0 -54.727014919818835,-11.872398155635054Z"/>
+                            </g>
+                            <g class="nv-slice" fill="#8c564b" stroke="#8c564b">
+                                <path d="M-119.59410463444632,-45.620720475296125A128,128 0 0,1 -2.351321854362918e-14,-128L-1.0287033112837767e-14,-56A56,56 0 0,0 -52.322420777570265,-19.959065207942054Z"/>
+                            </g>
+                        </g>
+                        <g class="nv-pieLabels" transform="translate(290,160)">
+                            <g class="nv-label knime-label"
+                               transform="translate(61.273091803951154,-68.62658537902476)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    11.33
+                                </text>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(81.1707928320157,43.30476175921057)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    9.38
+                                </text>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-25.111578067593886,88.50654578591991)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    11.72
+                                </text>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-90.77510686712385,14.962619197929348)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    5.86
+                                </text>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-88.18400458959859,-26.221772147237772)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);"/>
+                            </g>
+                            <g class="nv-label knime-label"
+                               transform="translate(-52.18874331966159,-75.76499898181532)">
+                                <rect rx="3" width="0" ry="3" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    9.38
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-legendWrap nvd3-svg knime-legend"
+               transform="translate(0,-60)">
+                <g class="nvd3 nv-legend" transform="translate(0,20)">
+                    <g transform="translate(77.1875,20)">
+                        <g class="nv-series" transform="translate(0,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(31, 119, 180); fill-opacity: 1; stroke: rgb(31, 119, 180);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Commercial
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(96.015625,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 127, 14); fill-opacity: 1; stroke: rgb(255, 127, 14);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Compta Finances
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(222.0625,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(44, 160, 44); fill-opacity: 1; stroke: rgb(44, 160, 44);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Consultant
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(311.4375,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(214, 39, 40); fill-opacity: 1; stroke: rgb(214, 39, 40);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                Marketing
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(396.125,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(148, 103, 189); fill-opacity: 1; stroke: rgb(148, 103, 189);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                R&amp;D
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(453.46875,5)">
+                            <circle class="nv-legend-symbol knime-legend-symbol"
+                                    r="5"
+                                    style="stroke-width: 2; fill: rgb(140, 86, 75); fill-opacity: 1; stroke: rgb(140, 86, 75);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text knime-legend-label"
+                                  text-anchor="start">
+                                RH
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

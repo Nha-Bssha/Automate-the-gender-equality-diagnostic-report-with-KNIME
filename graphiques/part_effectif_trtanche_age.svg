@@ -1,0 +1,115 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="600"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="display: block;" class="nvd3-svg" contentStyleType="text/css"
+     height="400" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.nvd3 text { font: 400 12px Arial; }
+.nvd3 .nv-legend .nv-series { cursor: pointer; }
+.nvd3.nv-pie path { stroke-opacity: 0; transition: fill-opacity 250ms linear 0s, stroke-width 250ms linear 0s, stroke-opacity 250ms linear 0s; }
+.nvd3.nv-pie path { stroke: rgb(255, 255, 255); stroke-width: 1px; stroke-opacity: 1; }
+.nvd3.nv-pie .nv-label { pointer-events: none; }
+.nvd3.nv-pie .nv-label rect { fill-opacity: 0; stroke-opacity: 0; }</style><style type="text/css"
+           xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }</style><text x="20"
+          y="30" id="title" class="knime-title">
+        Part des effectifs par tranche d&apos;âge
+    </text>
+    <g class="nvd3 nv-wrap nv-pieChart" transform="translate(20,60)">
+        <g>
+            <g class="nv-pieWrap nvd3-svg">
+                <g class="nvd3 nv-wrap nv-pie nv-chart-7899"
+                   transform="translate(0,0)">
+                    <g>
+                        <g class="nv-pie" transform="translate(290,160)">
+                            <g class="nv-slice" fill="#1f77b4" stroke="#1f77b4">
+                                <path/>
+                            </g>
+                            <g class="nv-slice" fill="#ff7f0e" stroke="#ff7f0e">
+                                <path/>
+                            </g>
+                            <g class="nv-slice" fill="#2ca02c" stroke="#2ca02c">
+                                <path/>
+                            </g>
+                            <g class="nv-slice" fill="#d62728" stroke="#d62728">
+                                <path/>
+                            </g>
+                        </g>
+                        <g class="nv-pieLabels" transform="translate(290,160)">
+                            <g class="nv-label"
+                               transform="translate(23.03328233823925,-59.711539125423286)">
+                                <rect rx="3" ry="3" width="0" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    11.72
+                                </text>
+                            </g>
+                            <g class="nv-label"
+                               transform="translate(63.76400717969779,5.491027990044162)">
+                                <rect rx="3" ry="3" width="0" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    29.30
+                                </text>
+                            </g>
+                            <g class="nv-label"
+                               transform="translate(-38.124755487515735,51.405282014761276)">
+                                <rect rx="3" ry="3" width="0" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    38.28
+                                </text>
+                            </g>
+                            <g class="nv-label"
+                               transform="translate(-38.75270664987684,-50.93356189496854)">
+                                <rect rx="3" ry="3" width="0" height="0"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"/>
+                                <text style="text-anchor: middle; fill: rgb(0, 0, 0);">
+                                    20.70
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g class="nv-legendWrap nvd3-svg" transform="translate(0,-60)">
+                <g class="nvd3 nv-legend" transform="translate(0,20)">
+                    <g transform="translate(238.5,20)">
+                        <g class="nv-series" transform="translate(0,5)">
+                            <circle class="nv-legend-symbol" r="5"
+                                    style="stroke-width: 2; fill: rgb(31, 119, 180); fill-opacity: 1; stroke: rgb(31, 119, 180);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text" text-anchor="start">
+                                31-40 ans
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(85.375,5)">
+                            <circle class="nv-legend-symbol" r="5"
+                                    style="stroke-width: 2; fill: rgb(255, 127, 14); fill-opacity: 1; stroke: rgb(255, 127, 14);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text" text-anchor="start">
+                                41-50 ans
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(170.75,5)">
+                            <circle class="nv-legend-symbol" r="5"
+                                    style="stroke-width: 2; fill: rgb(44, 160, 44); fill-opacity: 1; stroke: rgb(44, 160, 44);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text" text-anchor="start">
+                                51-60 ans
+                            </text>
+                        </g>
+                        <g class="nv-series" transform="translate(256.125,5)">
+                            <circle class="nv-legend-symbol" r="5"
+                                    style="stroke-width: 2; fill: rgb(214, 39, 40); fill-opacity: 1; stroke: rgb(214, 39, 40);"/>
+                            <text dx="8" fill="#000" dy=".32em"
+                                  class="nv-legend-text" text-anchor="start">
+                                61-75 ans
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
